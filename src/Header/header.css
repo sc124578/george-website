@@ -1,0 +1,75 @@
+.navbar {
+    width: 100%;
+    height: auto;
+    display: flex;
+    background-color: #f2f3f4;
+    align-content: center;
+    color: black;
+    justify-content: center;
+  }
+
+  .navbar-nav {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }
+  
+  .nav-item {
+    margin-bottom: 10px;
+  }
+  
+  .nav-link {
+    color: black;
+    text-decoration: none;
+  }
+  
+  /* Styles for individual buttons */
+  .navbar-brand {
+    size: cover;
+  }
+
+ 
+  .header-content {
+    display: grid;
+    grid-template-columns: 4fr 4fr ; /* Update to one column for the text */
+    gap: 10px; /* Add some gap between the text */
+    align-items: center; /* Center the text vertically */
+    margin-bottom: 2%;
+    margin-top: 2%;
+  }
+  
+  .misadhi, .coffee, .growers {
+    margin: 0; /* Remove default margin to avoid extra spacing */
+    transform: translateY(5px); /* Adjust the vertical spacing between words */
+    color: #f2f3f4;
+  }
+
+  .coffee {
+    margin-left: 15%;
+  }
+
+  .growers {
+    margin-left: 30%;
+  }
+  
+  .headerIMG {
+    width: 50%;
+    height: auto;
+    display: block;
+    margin: 0 auto; /* Shorter way to center the image */
+
+  }
+  
+  .headerH1 {
+    font-size: 3rem;
+    font-weight: 700;
+   margin-left: 50%;
+  }
+
+  @media screen and (min-width: 300px) and (max-width: 750px) {
+    .header-content {
+        width: 100%;
+        margin-bottom: 5%;
+    }
+  }
+  

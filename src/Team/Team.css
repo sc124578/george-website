@@ -1,0 +1,199 @@
+.georgeinfo {
+    display: flex;
+    align-items: center;
+    justify-content: space-around; 
+    text-align: center;
+    position: relative;
+    border: 4px solid white;
+    border-radius: 10px;
+    margin: 6%;
+    padding: 20px;
+  }
+
+  .georgeH1 {
+    margin-bottom: 1%;
+    margin-top: 5%;
+    font-family: 'Dosis', sans-serif;
+    text-align: center;
+    color: #f2f3f4;
+    
+  }
+  .georgeH2 {
+    font-family: 'Dosis', sans-serif;
+    text-align: center;
+    color: #f2f3f4;
+  }
+  .teamH1 {
+    font-family: 'Dosis', sans-serif;
+    text-align: center;
+    color: #f2f3f4;
+    margin: 5%;
+  }
+  .davidH1 {
+    font-family: 'Dosis', sans-serif;
+    text-align: center;
+    color: #f2f3f4;
+    margin: 5%;
+  }
+  .davidinfo {
+    display: flex;
+    align-items: center;
+    justify-content: space-around; 
+    text-align: center;
+    border: 4px solid white;
+    border-radius: 10px;
+    margin: 6%;
+    padding: 20px;
+  }
+  .davidH2 {
+    font-family: 'Dosis', sans-serif;
+    text-align: center;
+    color: #f2f3f4;
+  }
+  .florenceH1 {
+    font-family: 'Dosis', sans-serif;
+    text-align: center;
+    color: #f2f3f4;
+    margin: 5%;
+  }
+  .florenceinfo {
+    display: flex;
+    align-items: center;
+    justify-content: space-around; 
+    text-align: center;
+    border: 4px solid white;
+    border-radius: 10px;
+    margin: 6%;
+    padding: 20px;
+  }
+  .florenceH2 {
+    font-family: 'Dosis', sans-serif;
+    text-align: center;
+    color: #f2f3f4;
+  }
+  .antonyH1 {
+    font-family: 'Dosis', sans-serif;
+    text-align: center;
+    color: #f2f3f4;
+    margin: 5%;
+  }
+  .antonyinfo {
+    display: flex;
+    align-items: center;
+    justify-content: space-around; 
+    text-align: center;
+    border: 4px solid white;
+    border-radius: 10px;
+    margin: 6%;
+    padding: 20px;
+  }
+  .antonyH2 {
+    font-family: 'Dosis', sans-serif;
+    text-align: center;
+    color: #f2f3f4;
+  }
+  .extendedTeamH1 {
+    font-family: 'Dosis', sans-serif;
+    text-align: center;
+    color: #f2f3f4;
+    margin: 5%;
+  }
+  .extendedTeam {
+    display: flex;
+    align-items: center;
+    justify-content: space-around; 
+    text-align: center;
+    border: 4px solid white;
+    border-radius: 10px;
+    margin: 6%;
+    padding: 20px;
+  }
+  .georgeMH1 {
+    font-family: 'Dosis', sans-serif;
+    text-align: center;
+    color: #f2f3f4;
+    margin-bottom: 5%;
+  }
+  .georgeMH2 {
+    font-family: 'Dosis', sans-serif;
+    text-align: center;
+    color: #f2f3f4;
+  }
+  .polockH1 {
+    font-family: 'Dosis', sans-serif;
+    text-align: center;
+    color: #f2f3f4;
+    margin-bottom: 5%;
+  }
+    .polockH2 {
+        font-family: 'Dosis', sans-serif;
+        text-align: center;
+        color: #f2f3f4;
+    }
+    .regineH1 {
+        font-family: 'Dosis', sans-serif;
+        text-align: center;
+        color: #f2f3f4;
+        margin-bottom: 5%;
+    }
+    .regineH2 {
+        font-family: 'Dosis', sans-serif;
+        text-align: center;
+        color: #f2f3f4;
+    }
+    .georgeIMG {
+      border-radius: 50% / 70%;
+      overflow: hidden;
+      width: 25%;
+    }
+    .davidIMG {
+      border-radius: 50% / 70%; 
+      overflow: hidden;
+      width: 25%;
+    }
+    .florenceIMG {
+      border-radius: 50% / 70%; 
+      overflow: hidden;
+      width: 25%;
+    }
+    .antonyIMG {
+      border-radius: 50% / 70%; 
+      overflow: hidden;
+      width: 25%;
+    }
+    .georgeMIMG {
+      border-radius: 50% / 70%;
+      overflow: hidden;
+      width: 25%;
+    }
+    .polockIMG {
+      border-radius: 50% / 70%;
+      overflow: hidden;
+      width: 25%;
+    }
+    .regineIMG {
+      border-radius: 50% / 70%;
+      overflow: hidden;
+      width: 25%;
+    }
+   
+
+    
+
+    @media screen and (max-width: 700px) {
+        .georgeinfo {
+            flex-direction: column; 
+        }
+        .davidinfo {
+            flex-direction: column; 
+        }
+        .florenceinfo {
+            flex-direction: column; 
+        }
+        .antonyinfo {
+            flex-direction: column; 
+        }
+        .extendedTeam {
+            flex-direction: column; 
+        }
+    }

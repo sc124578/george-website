@@ -1,0 +1,265 @@
+.goalsH1 {
+    font-size: 3.5rem;
+    font-family: 'Dosis', sans-serif;
+    text-align: center;
+    color: #f2f3f4;
+    margin: 5%;
+}
+
+.goalspart1 {
+    display: flex;
+    align-items: center;
+    justify-content: space-around; 
+    text-align: center;
+    border: 4px solid white;
+    border-radius: 10px;
+    padding: 20px;
+    margin: 7%;
+
+}
+.goalsP1 {
+    font-size: 2rem;
+    font-family: 'Dosis', sans-serif;
+    text-align: center;
+    color: #f2f3f4;
+    width: 40%;
+}
+.cherryswomen {
+    width: 30%;
+}
+
+
+.goalsh21 {
+    margin-top: 5%;
+    font-size: 3.5rem;
+    font-family: 'Dosis', sans-serif;
+    text-align: center;
+    color: #f2f3f4;
+    margin-bottom: 1%;
+}
+
+.goalsLi {
+    font-size: 2rem;
+    font-family: 'Dosis', sans-serif;
+    text-align: center;
+    color: #f2f3f4;
+    margin: 5%;
+}
+
+
+
+.goalspart3-2 {
+    display: flex;
+    align-items: center;
+    justify-content: space-around; 
+    text-align: center;
+    border: 4px solid white;
+    border-radius: 10px;
+    padding: 20px;
+    margin-left: 8%;
+    margin-right: 8%;
+}
+
+.goalsh23 {
+    margin-top: 5%;
+    margin-bottom: 1%;
+    font-size: 3.5rem;
+    font-family: 'Dosis', sans-serif;
+    text-align: center;
+    color: #f2f3f4;
+    
+}
+
+.goalsp3 {
+    font-size: 2rem;
+    font-family: 'Dosis', sans-serif;
+    text-align: center;
+    color: #f2f3f4;
+    width: 40%;
+}
+
+.manPickCherry {
+    width: 40%;
+}
+
+.goalsh24 {
+    margin-top: 5%;
+    margin-bottom: 1%;
+    font-size: 3.5rem;
+    font-family: 'Dosis', sans-serif;
+    text-align: center;
+    color: #f2f3f4;
+}
+
+.goalspart4-2 {
+    display: flex;
+    align-items: center;
+    justify-content: space-around; 
+    text-align: center;
+    border: 4px solid white;
+    border-radius: 10px;
+    padding: 20px;
+    margin-left: 8%;
+    margin-right: 8%;
+}
+
+.goalsp4 {
+    font-size: 2rem;
+    font-family: 'Dosis', sans-serif;
+    text-align: center;
+    color: #f2f3f4;
+    width: 40%;
+}
+
+.cherryAtTheMill {
+    width: 30%;
+}
+
+.goalsh25 {
+    margin-top: 5%;
+    margin-bottom: 1%;
+    font-size: 3.5rem;
+    font-family: 'Dosis', sans-serif;
+    text-align: center;
+    color: #f2f3f4;
+}
+
+.goalspart5-2 {
+    display: flex;
+    align-items: center;
+    justify-content: space-around; 
+    text-align: center;
+    border: 4px solid white;
+    border-radius: 10px;
+    padding: 20px;
+    margin-left: 8%;
+    margin-right: 8%;
+}
+
+.goalsp5 {
+    font-size: 2rem;
+    font-family: 'Dosis', sans-serif;
+    text-align: center;
+    color: #f2f3f4;
+    width: 40%;
+}
+
+.pulping {
+    width: 30%;
+}
+
+.goalsh26 {
+    margin-top: 5%;
+    margin-bottom: 1%;
+    font-size: 3.5rem;
+    font-family: 'Dosis', sans-serif;
+    text-align: center;
+    color: #f2f3f4;
+}
+
+.goalspart6-2 {
+    display: flex;
+    align-items: center;
+    justify-content: space-around; 
+    text-align: center;
+    border: 4px solid white;
+    border-radius: 10px;
+    padding: 20px;
+    margin-left: 8%;
+    margin-right: 8%;
+}
+
+.goalsp6 {
+    font-size: 2rem;
+    font-family: 'Dosis', sans-serif;
+    text-align: center;
+    color: #f2f3f4;
+    width: 40%;
+}
+
+.drying {
+    width: 30%;
+}
+
+.goalsh27 {
+    margin-top: 5%;
+    margin-bottom: 1%;
+    font-size: 3.5rem;
+    font-family: 'Dosis', sans-serif;
+    text-align: center;
+    color: #f2f3f4;
+}
+
+.goalspart7-2 {
+    display: flex;
+    align-items: center;
+    justify-content: space-around; 
+    text-align: center;
+    border: 4px solid white;
+    border-radius: 10px;
+    padding: 20px;
+    margin-left: 8%;
+    margin-right: 8%;
+}
+
+.goalsp7 {
+    font-size: 2rem;
+    font-family: 'Dosis', sans-serif;
+    text-align: center;
+    color: #f2f3f4;
+    width: 40%;
+}
+
+.dryBed {
+    width: 30%;
+}
+
+.goalsh28 {
+    margin-top: 5%;
+    margin-bottom: 1%;
+    font-size: 3.5rem;
+    font-family: 'Dosis', sans-serif;
+    text-align: center;
+    color: #f2f3f4;
+}
+
+.goalspart8-2 {
+    display: flex;
+    align-items: center;
+    justify-content: space-around; 
+    text-align: center;
+    border: 4px solid white;
+    border-radius: 10px;
+    padding: 20px;
+    margin-left: 8%;
+    margin-right: 8%;
+}
+
+.goalsp8 {
+    font-size: 2rem;
+    font-family: 'Dosis', sans-serif;
+    text-align: center;
+    color: #f2f3f4;
+    width: 40%;
+}
+
+.nursey {
+    width: 30%;
+}
+
+.goalsh29 {
+    margin: 5%;
+    font-size: 3.5rem;
+    font-family: 'Dosis', sans-serif;
+    text-align: center;
+    color: #f2f3f4;
+
+}
+
+.goalsp9 {
+    font-size: 2rem;
+    font-family: 'Dosis', sans-serif;
+    text-align: center;
+    color: #f2f3f4;
+
+}
