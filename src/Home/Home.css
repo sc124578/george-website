@@ -5,6 +5,16 @@
     color: #f2f3f4;
 }
 
+.welcomeTopImage {
+display: flex;
+justify-content: space-around;
+margin-bottom: 5%;
+}
+
+.homeImage {
+    width: 40%;
+}
+
 .welcomep {
     margin-bottom: 5%;
     font-size: 1.6em;
@@ -44,6 +54,9 @@ html body {
     .image2 {
         width: 100%;
         margin-top: 6%;
+    }
+    .welcomeTopImage {
+        width: 100%;
     }
     
 }

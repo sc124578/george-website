@@ -124,6 +124,9 @@
     text-align: center;
     color: #f2f3f4;
   }
+  .georgeMIMG {
+   width: 100%;
+  }
   .polockH1 {
     font-family: 'Dosis', sans-serif;
     text-align: center;
@@ -135,6 +138,9 @@
         text-align: center;
         color: #f2f3f4;
     }
+    .polockinfo {
+      width: 50%;
+    }
     .regineH1 {
         font-family: 'Dosis', sans-serif;
         text-align: center;
@@ -145,6 +151,9 @@
         font-family: 'Dosis', sans-serif;
         text-align: center;
         color: #f2f3f4;
+    }
+    .regineinfo {
+      width: 45%;
     }
     .georgeIMG {
       border-radius: 50% / 70%;
@@ -201,4 +210,10 @@
         .extendedTeam {
             flex-direction: column; 
         }
+        .polockinfo {
+      width: 100%;
     }
+    .regineinfo {
+      width: 100%;
+    }
+  }

@@ -1,7 +1,7 @@
 import React from "react";
 import "./Goals.css";
 import cherryswomen from "../Images/Woman washing cherry.JPG";
-import manPickCherry from "../Images/Children pick green.jpg"
+import bicycle from "../Images/Bicycle.jpg"
 import cherryAtTheMill from "../Images/Cherry at the mill.jpg"
 import pulping from "../Images/Pulping (1).jpg"
 import drying from "../Images/Dry Bed 2.jpg"
@@ -40,7 +40,7 @@ export default function Goals() {
                 brings their cherry to us. Farmers come on foot, bicycles, motor bikes. Any way possible. Reduced distance 
                 is a big help. We pay them the same day, and we weigh each bag, and track each contribution. This helps to 
                 determine the amount of assistance we can offer each farmer.</p>
-                <img src={manPickCherry} alt="manPickCherry" className="manPickCherry" />
+                <img src={bicycle} alt="manPickCherry" className="manPickCherry" />
                 </div>
             </div>
             <div className="goalspart4">

@@ -1,3 +1,7 @@
+.header {
+  background-color: #2C2C2C;
+}
+
 .navbar {
     width: 100%;
     height: auto;
@@ -35,7 +39,8 @@
     gap: 10px; /* Add some gap between the text */
     align-items: center; /* Center the text vertically */
     margin-bottom: 2%;
-    margin-top: 2%;
+   
+    background-color: #2C2C2C;
   }
   
   .misadhi, .coffee, .growers {
@@ -57,7 +62,7 @@
     height: auto;
     display: block;
     margin: 0 auto; /* Shorter way to center the image */
-
+    margin-top: 4%;
   }
   
   .headerH1 {

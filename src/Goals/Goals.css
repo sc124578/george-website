@@ -269,3 +269,185 @@
     color: #f2f3f4;
 
 }
+
+@media screen and (max-width: 800px) {
+    .goalspart1 {
+        flex-direction: column;
+        width: 100%;
+        margin: 0;
+    }
+    .goalsP1 {
+        width: 100%;
+    }
+    .cherryswomen {
+        width: 100%;
+    }
+    .goalsh21 {
+        margin-top: 5%;
+        font-size: 3.5rem;
+        font-family: 'Dosis', sans-serif;
+        text-align: center;
+        color: #f2f3f4;
+        margin-bottom: 1%;
+    }
+    .goalsLi {
+        font-size: 2rem;
+        font-family: 'Dosis', sans-serif;
+        text-align: center;
+        color: #f2f3f4;
+        margin: 5%;
+    }
+    .goalspart3-2 {
+        flex-direction: column;
+        width: 100%;
+        margin: 0;
+    }
+    .goalsh23 {
+        margin-top: 5%;
+        margin-bottom: 1%;
+        font-size: 3.5rem;
+        font-family: 'Dosis', sans-serif;
+        text-align: center;
+        color: #f2f3f4;
+        
+    }
+    .goalsp3 {
+        font-size: 2rem;
+        font-family: 'Dosis', sans-serif;
+        text-align: center;
+        color: #f2f3f4;
+        width: 100%;
+    }
+    .manPickCherry {
+        width: 100%;
+    }
+    .goalsh24 {
+        margin-top: 5%;
+        margin-bottom: 1%;
+        font-size: 3.5rem;
+        font-family: 'Dosis', sans-serif;
+        text-align: center;
+        color: #f2f3f4;
+    }
+    .goalspart4-2 {
+        flex-direction: column;
+        width: 100%;
+        margin: 0;
+    }
+    .goalsp4 {
+        font-size: 2rem;
+        font-family: 'Dosis', sans-serif;
+        text-align: center;
+        color: #f2f3f4;
+        width: 100%;
+    }
+    .cherryAtTheMill {
+        width: 100%;
+    }
+    .goalsh25 {
+        margin-top: 5%;
+        margin-bottom: 1%;
+        font-size: 3.5rem;
+        font-family: 'Dosis'
+    }
+    .goalspart5-2 {
+        flex-direction: column;
+        width: 100%;
+        margin: 0;
+    }
+    .goalsp5 {
+        font-size: 2rem;
+        font-family: 'Dosis', sans-serif;
+        text-align: center;
+        color: #f2f3f4;
+        width: 100%;
+    }
+    .pulping {
+        width: 100%;
+    }
+    .goalsh26 {
+        margin-top: 5%;
+        margin-bottom: 1%;
+        font-size: 3.5rem;
+        font-family: 'Dosis', sans-serif;
+        text-align: center;
+        color: #f2f3f4;
+    }
+    .goalspart6-2 {
+        flex-direction: column;
+        width: 100%;
+        margin: 0;
+    }
+    .goalsp6 {
+        font-size: 2rem;
+        font-family: 'Dosis', sans-serif;
+        text-align: center;
+        color: #f2f3f4;
+        width: 100%;
+    }
+    .drying {
+        width: 100%;
+    }
+    .goalsh27 {
+        margin-top: 5%;
+        margin-bottom: 1%;
+        font-size: 3.5rem;
+        font-family: 'Dosis', sans-serif;
+        text-align: center;
+        color: #f2f3f4;
+    }
+    .goalspart7-2 {
+        flex-direction: column;
+        width: 100%;
+        margin: 0;
+    }
+    .goalsp7 {
+        font-size: 2rem;
+        font-family: 'Dosis', sans-serif;
+        text-align: center;
+        color: #f2f3f4;
+        width: 100%;
+    }
+    .dryBed {
+        width: 100%;
+    }
+    .goalsh28 {
+        margin-top: 5%;
+        margin-bottom: 1%;
+        font-size: 3.5rem;
+        font-family: 'Dosis', sans-serif;
+        text-align: center;
+        color: #f2f3f4;
+    }
+    .goalspart8-2 {
+        flex-direction: column;
+        width: 100%;
+        margin: 0;
+    }
+    .goalsp8 {
+        font-size: 2rem;
+        font-family: 'Dosis', sans-serif;
+        text-align: center;
+        color: #f2f3f4;
+        width: 100%;
+    }
+    .nursey {
+        width: 100%;
+    }
+    .goalsh29 {
+        margin: 5%;
+        font-size: 3.5rem;
+        font-family: 'Dosis', sans-serif;
+        text-align: center;
+        color: #f2f3f4;
+
+    }
+    .goalsp9 {
+        font-size: 2rem;
+        font-family: 'Dosis', sans-serif;
+        text-align: center;
+        color: #f2f3f4;
+
+    }
+
+}
