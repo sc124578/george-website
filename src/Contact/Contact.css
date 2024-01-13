@@ -1,0 +1,27 @@
+.contact {
+    display: flex;
+    flex-direction: column;
+    align-items: right;
+    justify-content: center;
+    height: 100vh;
+    font-family: 'Dosis', sans-serif;
+    color: #f2f3f4;
+}
+.contact1 {
+    margin: 2%;
+}
+.contact2 {
+    margin: 2%;
+}
+.contact3 {
+    margin: 2%;
+}  
+.contact4 {
+    margin: 2%;
+}
+.contact5 {
+    margin: 2%;
+}
+.contact6 {
+    margin: 2%;
+}

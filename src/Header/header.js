@@ -57,6 +57,11 @@ useEffect(() => {
                                             <Link to="/goals" className="nav-link">
                                             <button type="button" class="btn btn-light">Goals</button>
                                             </Link>
+                                        <li className="nav-item">
+                                            <Link to="/quality" className="nav-link">
+                                            <button type="button" class="btn btn-light">Quality</button>
+                                            </Link>
+                                        </li>
                                         </li>
                                         <li className="nav-item">
                                             <Link to="/contact" className="nav-link">
@@ -80,6 +85,9 @@ useEffect(() => {
                             </Link>
                             <Link to="/goals" className="navbar-brand">
                             <button type="button" class="btn btn-light">Goals</button>
+                            </Link>
+                            <Link to="/quality" className="navbar-brand">
+                            <button type="button" class="btn btn-light">Quality</button>
                             </Link>
                             <Link to="/contact" className="navbar-brand">
                             <button type="button" class="btn btn-light">Contact</button>

@@ -22,6 +22,12 @@ return (
             <img src={handfulOfCherries} alt="handfulOfCherries" className="image1" />
             <img src={manPickCherry} alt="manPickCherry" className="image2" />
         </div>
+        <div className="welcomep2">
+            <p>Misadhi wants to be your direct trade partner. We not only grow very high grade coffee, but we also do
+                our own sales and marketing. For inquiries to purchase our coffee, go to our contact page. We look forward to 
+                hearing from you.
+            </p>
+        </div>
         
     </div>
 )

@@ -5,6 +5,7 @@ import "./About.css";
 export default function About() {
 return (
     <div className="about">
+      <h1 className="aboutH1">Misadhi's Story</h1>
         <p className="aboutP1">Misadhi Coffee Society began operations in the late 1950s. For decades it provided a solid 
         base for the coffee farmers in the Rongo area of Migori County, Kenya. But eventually corruption took hold and the
          Society was closed. It remained closed for nearly thirty years. But in 2022 it was reopened and is now thriving 
@@ -22,16 +23,15 @@ return (
                was good at a time, but it is not realistic to take in a Million KG of cherry without paying anyone for 6 
                months. This business practice has led to many farmers choosing to do business with Misadhi. We will processed
                 over 1 Million tG of Cherry each year for 2022, and 2023. </p>
-        <p className="aboutP4">George Yost came to Misadhi in 2021 and that resulted in an investment of several 
-                hundreds of thousands of USD to reopen the mill and build a farmer network of members. The concept of 
-                Societies was good at a time, but it is not realistic to take in a Million KG of cherry without paying 
-                anyone for 6 months. This business practice has led to many farmers choosing to do business with Misadhi. 
-                We will processed over 1 Million tG of Cherry each year for 2022, and 2023. </p>
-        <p className="aboutP5">George Yost came to Misadhi in 2021 and that resulted in an investment of several hundreds 
-        of thousands of USD to reopen the mill and build a farmer network of members. The concept of Societies was good at 
-        a time, but it is not realistic to take in a Million KG of cherry without paying anyone for 6 months. This business
-         practice has led to many farmers choosing to do business with Misadhi. We will processed over 1 Million tG of Cherry
-          each year for 2022, and 2023. </p>
+        <p className="aboutP4">When Misadhi was reopened in 2022, I Million Kg was the goal. And so far we are right on 
+        target with these goals. The finances have largely been taken from the board, and the responsibility of farm 
+        outreach programs have taken their place. Our Board is focused solely on developing nurseries, producing through 
+        a generous profit-sharing program. So the Boards only focus is in increasing yields, quality, and tree count in 
+        the four counties in which Misadhi operates. </p>
+        <p className="aboutP5">Misadhi operates over 50 weighing stations. This shortens the distance for each of our Farmer
+         Member to bring their cherry to the mill. We operate 6 pickup trucks to transport cherry to the mill. The small
+          open-air trucks increase the quality of cherry to the mill. Over Ripe cherry is a thing of the past. This results
+           in much fresher cherry and a better cup of coffee.</p>
         <p className="aboutP6">Each station is equipped with a digital scale. Each farmer’s weight is recorded on the day 
         or days that station is opened, and that farmer is paid within 24 hours of them bringing their cherry to the weigh
          station.</p> 
