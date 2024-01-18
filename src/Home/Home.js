@@ -27,6 +27,11 @@ return (
                 our own sales and marketing. For inquiries to purchase our coffee, go to our contact page. We look forward to 
                 hearing from you.
             </p>
+            <div className="welcomeBox">
+            <p className="welcomep3">Want to reach out to Misadhi Coffee, contact George Yost, </p>
+            <p>Phone: 303-601-6302</p>
+              <p><a href="mailto: George@MisadhiCoffee.com">Email</a></p>
+              </div>
         </div>
         
     </div>

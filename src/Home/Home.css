@@ -45,6 +45,17 @@ margin-bottom: 5%;
     color: #f2f3f4;
 }
 
+.welcomeBox {
+    margin: 5%;
+    font-size: 1.6em;
+    font-family: 'Dosis', sans-serif;
+    text-align: center;
+    color: #f2f3f4;
+    border: 2px solid #f2f3f4;
+    border-radius: 15px;
+    background-color:slategrey;
+}
+
 html body {
     background-color: #36454f;
 }

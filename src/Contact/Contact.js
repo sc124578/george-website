@@ -6,8 +6,9 @@ export default function Contact() {
         <div className="contact">
             <div className="contact1">
             <h2 className="contactGeorge">George Yost: Sales and Marketing</h2>
-            <h3 className="contactGeorge2">USA: 304-601-6302</h3>
+            <h3 className="contactGeorge2">USA: 303-601-6302</h3>
             <h3 className="contactGeorge2">Kenya: 254-799-376-707</h3>
+            <h3 className="contactGeorge2"><a href="mailto: George@MisadhiCoffee.com">Email</a></h3>
             </div>
             <div className="contact2">
                 <h2 className="contactDavid">David Kiara: Logistics and Special Projects</h2>
