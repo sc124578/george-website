@@ -4,6 +4,7 @@ import "./Contact.css";
 export default function Contact() {
     return (
         <div className="contact">
+            <h1 className="contactTitle">Contact Us</h1>
             <div className="contact1">
             <h2 className="contactGeorge">George Yost: Sales and Marketing</h2>
             <h3 className="contactGeorge2">USA: 303-601-6302</h3>

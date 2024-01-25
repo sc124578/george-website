@@ -6,6 +6,7 @@
     height: 100vh;
     font-family: 'Dosis', sans-serif;
     color: #f2f3f4;
+    margin-top: 5%;
 }
 .contact1 {
     margin: 1%;
@@ -24,4 +25,11 @@
 }
 .contact6 {
     margin: 1%;
+}
+.contactTitle {
+    display: flex;
+    font-size: 3em;
+    margin-bottom: 1%;
+    justify-content: center;
+    margin: 3%;
 }
